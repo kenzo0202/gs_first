@@ -1,0 +1,17 @@
+#member1, #member2,#action{
+    width: 100px;
+    height: 50px;
+    border: 1px solid #000;
+    display: inline-block;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.contain{
+    width: 50%;
+    margin: 0 auto;
+    text-align: center
+}
